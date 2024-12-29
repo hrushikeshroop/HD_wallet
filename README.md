@@ -5,7 +5,7 @@ Hierarchical Deterministic (HD) Wallet
 
 This project demonstrates the generation and management of Hierarchical Deterministic (HD) wallets for Ethereum using JavaScript and TypeScript. It utilizes the bip39 library for mnemonic generation and seed creation, along with ethers.js for wallet management and address derivation.
 
-Features : 
+# Features : 
 Generate a new mnemonic phrase.
 
 Derive Ethereum addresses and private keys using HD wallet paths.
