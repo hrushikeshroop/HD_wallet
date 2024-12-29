@@ -12,5 +12,5 @@ Derive Ethereum addresses and private keys using HD wallet paths.
 
 Support for multiple addresses under the same mnemonic.
 
-Compatible with the Ethereum standard derivation path (m/44'/60'/0'/0/i).
+Compatible with the Ethereum standard derivation path (m/44'/60'/i).
 
